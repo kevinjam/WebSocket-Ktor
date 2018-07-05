@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kevincoin.iml" filepath="$PROJECT_DIR$/.idea/modules/kevincoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kevincoin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kevincoin_main.iml" group="kevincoin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kevincoin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kevincoin_test.iml" group="kevincoin" />
+    </modules>
+  </component>
+</project>

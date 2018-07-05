@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-server-tests:0.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-tests/0.9.2/66d99fae868d3d415a8f5bfab1f48c02b6f21ea1/ktor-server-tests-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-tests/0.9.2/8c9dbaa1532c474b9c24edf93a9a782e1119d0f4/ktor-server-tests-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.2.40" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.40/2364922e3ca01d51cad8f585a2c8c8d731bb375a/kotlin-test-common-1.2.40.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.40/cf1b2dbf4f18e8b36370070d7b79324462678493/kotlin-test-common-1.2.40-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
